@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\PYP\PYP-LoopTasks\PYP-LoopTasks\bin\Debug\net5.0\PYP-LoopTasks.exe
+C:\Users\hp\Desktop\PYP\PYP-LoopTasks\PYP-LoopTasks\bin\Debug\net5.0\PYP-LoopTasks.deps.json
+C:\Users\hp\Desktop\PYP\PYP-LoopTasks\PYP-LoopTasks\bin\Debug\net5.0\PYP-LoopTasks.runtimeconfig.json
+C:\Users\hp\Desktop\PYP\PYP-LoopTasks\PYP-LoopTasks\bin\Debug\net5.0\PYP-LoopTasks.runtimeconfig.dev.json
+C:\Users\hp\Desktop\PYP\PYP-LoopTasks\PYP-LoopTasks\bin\Debug\net5.0\PYP-LoopTasks.dll
+C:\Users\hp\Desktop\PYP\PYP-LoopTasks\PYP-LoopTasks\bin\Debug\net5.0\ref\PYP-LoopTasks.dll
+C:\Users\hp\Desktop\PYP\PYP-LoopTasks\PYP-LoopTasks\bin\Debug\net5.0\PYP-LoopTasks.pdb
+C:\Users\hp\Desktop\PYP\PYP-LoopTasks\PYP-LoopTasks\obj\Debug\net5.0\PYP-LoopTasks.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\PYP\PYP-LoopTasks\PYP-LoopTasks\obj\Debug\net5.0\PYP-LoopTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\PYP\PYP-LoopTasks\PYP-LoopTasks\obj\Debug\net5.0\PYP-LoopTasks.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\PYP\PYP-LoopTasks\PYP-LoopTasks\obj\Debug\net5.0\PYP-LoopTasks.AssemblyInfo.cs
+C:\Users\hp\Desktop\PYP\PYP-LoopTasks\PYP-LoopTasks\obj\Debug\net5.0\PYP-LoopTasks.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\PYP\PYP-LoopTasks\PYP-LoopTasks\obj\Debug\net5.0\PYP-LoopTasks.dll
+C:\Users\hp\Desktop\PYP\PYP-LoopTasks\PYP-LoopTasks\obj\Debug\net5.0\ref\PYP-LoopTasks.dll
+C:\Users\hp\Desktop\PYP\PYP-LoopTasks\PYP-LoopTasks\obj\Debug\net5.0\PYP-LoopTasks.pdb
+C:\Users\hp\Desktop\PYP\PYP-LoopTasks\PYP-LoopTasks\obj\Debug\net5.0\PYP-LoopTasks.genruntimeconfig.cache
